@@ -1,4 +1,4 @@
-# Intrusion-Detection
+# Intrusion Detection
 
 This project focuses on intrusion detection using machine learning techniques on the NSL-KDD dataset. The dataset used for this project is the NSL-KDD dataset, which can be found [here](https://www.kaggle.com/datasets/airadix/nslkdd).
 
